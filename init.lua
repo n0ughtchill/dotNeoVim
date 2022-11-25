@@ -14,4 +14,5 @@ require("n0ughtchill.plugins.lsp.null-ls")
 require("n0ughtchill.plugins.autopairs")
 require("n0ughtchill.plugins.treesitter")
 require("n0ughtchill.plugins.gitsigns")
+require("n0ughtchill.plugins.catppuccin")
 vim.opt.shell = "bin/bash"
