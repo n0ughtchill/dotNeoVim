@@ -13,6 +13,6 @@ Packer for plugins
 * comment
 * autopairs
 * lsp
-*    mason
-*    null-ls
-*    saga
+    * mason
+    * null-ls
+    * saga
