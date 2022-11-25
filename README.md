@@ -1,8 +1,8 @@
 # dotNeoVim
 Dot files for NeoVim
+Catppuccin latte
 
 Packer for plugins
-
 
 ### Current Plugins
 * telescope
